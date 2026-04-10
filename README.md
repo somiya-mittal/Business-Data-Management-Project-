@@ -43,7 +43,6 @@ Small retail stores often lack data-driven decision-making, leading to inefficie
   * Product-wise performance
   * Revenue and profit insights
   * Inventory demand patterns
-* Developed dashboards for visualization
 * Generated key business insights and conclusions
 
 ---
